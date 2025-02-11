@@ -14,6 +14,10 @@ public class Employee {
 	 private String city;
 	 private Integer age;
 	 private Integer salary;
+
+public void devm(){
+System.out.println("devm");
+}
 	 
 	 
 	public Integer getId() {
