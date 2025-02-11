@@ -15,17 +15,17 @@ public class Employee {
 	 private Integer age;
 	 private Integer salary;
 
-public void qamqwe(){
-System.out.println("qam");
+public void qamqweddd(){
+System.out.println("qam123");
 }
 
-public void devmwer(){
-System.out.println("devm123");
+public void devmwerddd(){
+System.out.println("devm12323");
 =======
-public void devm(){
+public void devmddd(){
 System.out.println("devm123");
 }
-public void devm(){
+public void devmddd(){
 System.out.println("devm1345");
 
 }
