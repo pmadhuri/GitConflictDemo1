@@ -15,21 +15,27 @@ public class Employee {
 	 private Integer age;
 	 private Integer salary;
 
-public void qamqweddd(){
+public void qamqweddd333(){
 System.out.println("qam123");
 }
 
-public void devmwerddd(){
+public void devmwerddd333(){
 System.out.println("devm12323");
 =======
-public void devmddd(){
+public void devmddd333(){
 System.out.println("devm123");
 }
+public void qamee333323ww(){
+System.out.println("qam");
+}
+public void qamee3333eee(){
+System.out.println("qam");
+}s
 public void devmddd(){
 System.out.println("devm1345");
 
 }
-public void qamee(){
+public void qamee3333(){
 System.out.println("qam");
 }
 	 
