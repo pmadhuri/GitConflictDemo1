@@ -18,8 +18,16 @@ public class Employee {
 public void qamqwe(){
 System.out.println("qam");
 }
+
 public void devmwer(){
 System.out.println("devm123");
+=======
+public void devm(){
+System.out.println("devm123");
+}
+public void devm(){
+System.out.println("devm1345");
+
 }
 public void qamee(){
 System.out.println("qam");
