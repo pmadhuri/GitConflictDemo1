@@ -16,19 +16,26 @@ public class Employee {
 	 private Integer salary;
 
 public void qamqweddd333(){
-System.out.println("qam123");
+System.out.println("qam123123333");
 }
 
-public void devmwerddd333(){
-System.out.println("devm12323");
+public void devmwerddd3334(){
+System.out.println("devm122344323");
 =======
-public void devmddd333(){
-System.out.println("devm123");
+public void devmddd3335(){
+System.out.println("devm123333");
 }
 public void qamee333323ww(){
+
+public void qamee33333(){
 System.out.println("qam");
+public void qameec3333(){
+System.out.println("qamc");
+System.out.println("qamc");
 }
 public void qamee3333eee(){
+
+
 System.out.println("qam");
 }s
 public void devmddd(){
