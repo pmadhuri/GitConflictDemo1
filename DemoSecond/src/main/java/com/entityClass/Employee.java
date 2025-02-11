@@ -16,7 +16,10 @@ public class Employee {
 	 private Integer salary;
 
 public void devm(){
-System.out.println("devm");
+System.out.println("devm123");
+}
+public void devm(){
+System.out.println("devm1345");
 }
 	 
 	 
