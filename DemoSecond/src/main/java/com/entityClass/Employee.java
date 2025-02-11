@@ -19,7 +19,10 @@ public void qam(){
 System.out.println("qam");
 }
 public void devm(){
-System.out.println("devm");
+System.out.println("devm123");
+}
+public void devm(){
+System.out.println("devm1345");
 }
 public void qam(){
 System.out.println("qam");
