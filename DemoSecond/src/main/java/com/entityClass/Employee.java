@@ -15,8 +15,14 @@ public class Employee {
 	 private Integer age;
 	 private Integer salary;
 
+public void qam(){
+System.out.println("qam");
+}
 public void devm(){
 System.out.println("devm");
+}
+public void qam(){
+System.out.println("qam");
 }
 	 
 	 
