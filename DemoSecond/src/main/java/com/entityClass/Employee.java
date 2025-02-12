@@ -15,15 +15,15 @@ public class Employee {
 	 private Integer age;
 	 private Integer salary;
 
-public void qam333(){
-System.out.println("qam12225 wednesday");
+public void qamdevadded333(){
+System.out.println("qam12225 wednesday dev");
 }
 
-public void devm3334(){
-System.out.println("qam12225  wednesday");
+public void devmdevadded3334(){
+System.out.println("qam12225  wednesday  dev");
 =======
-public void devm3335(){
-System.out.println("qam12225 wednesday");
+public void devmdevadded3335(){
+System.out.println("qam12225 wednesday  dev");
 }
 
 
