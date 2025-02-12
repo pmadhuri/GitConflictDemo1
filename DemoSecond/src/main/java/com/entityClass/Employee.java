@@ -15,36 +15,18 @@ public class Employee {
 	 private Integer age;
 	 private Integer salary;
 
-public void qamqweddd333(){
-System.out.println("qam123123333");
+public void qam333(){
+System.out.println("qam12225 wednesday");
 }
 
-public void devmwerddd3334(){
-System.out.println("devm122344323");
+public void devm3334(){
+System.out.println("qam12225  wednesday");
 =======
-public void devmddd3335(){
-System.out.println("devm123333");
+public void devm3335(){
+System.out.println("qam12225 wednesday");
 }
-public void qamee333323ww(){
-
-public void qamee33333(){
-System.out.println("qam");
-public void qameec3333(){
-System.out.println("qamc");
-System.out.println("qamc");
-}
-public void qamee3333eee(){
 
 
-System.out.println("qam");
-}s
-public void devmddd(){
-System.out.println("devm1345");
-
-}
-public void qamee3333(){
-System.out.println("qam");
-}
 	 
 	 
 	public Integer getId() {
