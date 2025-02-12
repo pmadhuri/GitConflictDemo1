@@ -15,18 +15,34 @@ public class Employee {
 	 private Integer age;
 	 private Integer salary;
 
+
 public void qamdevadded333(){
 System.out.println("qam12225 wednesday dev");
 }
 
 public void devmdevadded3334(){
 System.out.println("qam12225  wednesday  dev");
-=======
+
+public void qamdev(){
+System.out.println("qam123 developer");
+}
+
+public void devmdev(){
+System.out.println("devm12323");
+ (wednesday qa code added by dev)
+
 public void devmdevadded3335(){
 System.out.println("qam12225 wednesday  dev");
 }
 
+public void devdev(){
+System.out.println("devm1345");
 
+}
+public void qamdev(){
+System.out.println("qam");
+}
+ (wednesday qa code added by dev)
 	 
 	 
 	public Integer getId() {
